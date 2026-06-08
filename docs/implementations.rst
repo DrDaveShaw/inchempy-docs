@@ -10,7 +10,6 @@ The date input is used to calculate the declination angle of the Sun as
 
 .. math::
 
-   \index{declination angle}
        DEC = -23.45 \times \cos\left(\frac{360}{365.25}\times (d+10)\right)
 
 where :math:`d` is the number of days since the start of the year. This accounts for the orbit of the Earth and we can use the solar zenith angle (the angle between the zenith of the location and the solar rays) to account for the rotation of the Earth.
