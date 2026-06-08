@@ -24,3 +24,4 @@ concentrations of indoor air pollutants through time.
    outdoor_concentrations
    inchem_extractor_py
    reactions_analyser_py
+   References
