@@ -1,4 +1,4 @@
-INCHEM-Py v1.2.1 Documentation
+INCHEM-Py Documentation
 ===============================
 
 **INCHEM-Py** (INdoor CHEMical model in Python) is an open-source box model for predicting 
@@ -19,7 +19,7 @@ concentrations of indoor air pollutants through time.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Appendices
+   :caption: Additional
 
    outdoor_concentrations
    inchem_extractor_py
